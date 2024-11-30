@@ -1,1 +1,1 @@
-Sadece 4 işlem yapılabilen basit hesap makinesi.
+Sadece 4 islem yapilabilen basit hesap makinesi.
